@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>IIC/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+        <PreferedWindows>
+          <Position>1</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Debug-Log>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1307</ColumnWidth1>
+      </Debug-Log>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18508-24334</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-19748-28591</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19168-31245</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>IIC</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\TimerA1.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>377</SelStart><SelEnd>377</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Global.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>245</SelStart><SelEnd>245</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\TimerA1.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>112</SelStart><SelEnd>112</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\I2C.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>285</SelStart><SelEnd>285</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UCS.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>421</SelStart><SelEnd>421</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\WDT.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>162</SelStart><SelEnd>162</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\HMC5883.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>106</SelStart><SelEnd>106</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\HMC5883.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>322</SelStart><SelEnd>322</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART.c</Filename><XPos>0</XPos><YPos>487</YPos><SelStart>10128</SelStart><SelEnd>10140</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>31</YPos><SelStart>648</SelStart><SelEnd>648</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ADXL345.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>1040</SelStart><SelEnd>1052</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ADXL345.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>218</SelStart><SelEnd>222</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\L3G4200.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>126</SelStart><SelEnd>126</SelEnd></Tab><ActiveTab>12</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\L3G4200.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>344</SelStart><SelEnd>348</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\I2C.c</Filename><XPos>0</XPos><YPos>38</YPos><SelStart>1366</SelStart><SelEnd>1366</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>610</SelStart><SelEnd>622</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0292f2c0><key>iaridepm.enu1</key></Toolbar-0292f2c0></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11><Row12><Sizes/></Row12><Row13><Sizes/></Row13><Row14><Sizes/></Row14><Row15><Sizes/></Row15><Row16><Sizes/></Row16><Row17><Sizes/></Row17><Row18><Sizes/></Row18><Row19><Sizes/></Row19><Row20><Sizes/></Row20><Row21><Sizes/></Row21><Row22><Sizes/></Row22><Row23><Sizes/></Row23><Row24><Sizes/></Row24><Row25><Sizes/></Row25><Row26><Sizes/></Row26><Row27><Sizes/></Row27><Row28><Sizes/></Row28><Row29><Sizes/></Row29><Row30><Sizes/></Row30><Row31><Sizes/></Row31><Row32><Sizes/></Row32><Row33><Sizes/></Row33><Row34><Sizes/></Row34><Row35><Sizes/></Row35><Row36><Sizes/></Row36><Row37><Sizes/></Row37><Row38><Sizes/></Row38><Row39><Sizes/></Row39></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>483</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>146413</sizeHorzCX><sizeHorzCY>275482</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>668044</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>200</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>275482</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>275482</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
